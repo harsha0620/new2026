@@ -1,2 +1,3 @@
 git is popular opensoure tool
 hello harsha 
+this is for reset
