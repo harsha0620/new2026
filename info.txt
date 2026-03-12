@@ -3,3 +3,4 @@ hi sahana
 hello harsha 
 this is for reset
 hashhba
+working for git stash
